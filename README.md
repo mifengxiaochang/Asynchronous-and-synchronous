@@ -75,6 +75,8 @@ console.log('3');
 
 到这还得仔细瞅瞅这两个异步函数
 
+有个挺好的相关文章戳[这里](https://www.w3cplus.com/javascript/javaScript-setInterval.html)
+
 上学还是小白汐的时候老师介绍setTimeout是隔多少毫秒触发回调函数一次，setInterval是隔多少毫秒触发一次回调函数
 
 后来发现果然老师基本只教一半
